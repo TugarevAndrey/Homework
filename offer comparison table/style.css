@@ -52,18 +52,18 @@ body {
 }
 
 .card:nth-child(1) {
-    background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
+    background: linear-gradient(to left, #91a7ea, #86a8e7, #7f7fd5);
 }
 
 .card:nth-child(2) {
-    background: linear-gradient(to left, #fc3f68, #ff464a, #ff4a2b);
+    background: linear-gradient(to left, #58fc3f, #87ff46, #5dff2b);
     width: 260px;
     height: 410px;
     top: 40px;
 }
 
 .card:nth-child(3) {
-    background: linear-gradient(to left, #01b19b, #49bc6d, #90c23c);
+    background: linear-gradient(to left, #b1ae01, #b8bc49, #c2a73c);
 }
 
 .card .plan::before, .card .plan::after {
