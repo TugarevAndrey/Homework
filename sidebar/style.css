@@ -45,7 +45,7 @@ main {
 }
 
 .aside__header p {
-    color: white;
+    color: rgb(172, 106, 106);
     font-size: 18px;
 }
 
@@ -60,7 +60,7 @@ main {
 }
 
 .aside__list li:hover a {
-    color: white;
+    color: rgb(203, 164, 164);
 }
 
 .aside__list li a {
