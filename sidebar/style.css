@@ -17,7 +17,7 @@ aside {
 }
 
 .aside__header {
-    background-image: url(img/BG.jpg);
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/230865/pub_5c3ca3ef6d724700ab2e1720_5c3ca49832639b00ad039247/scale_1200);
     background-size: cover;
 }
 
@@ -45,7 +45,7 @@ main {
 }
 
 .aside__header p {
-    color: rgb(172, 106, 106);
+    color: rgb(255, 0, 234);
     font-size: 18px;
 }
 
