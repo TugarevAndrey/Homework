@@ -1,9 +1,9 @@
 .wrapper {
-    background-image: url(img/stars-bg.png);
+    background-image: url(https://i.yapx.cc/QLJo0.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 600px;
+    height: 800px;
     position: relative;
 }
 
