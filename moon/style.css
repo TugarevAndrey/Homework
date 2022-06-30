@@ -1,9 +1,9 @@
 .wrapper {
-    background-image: url(https://i.yapx.cc/QLJo0.jpg);
+    background-image: url(https://pbs.twimg.com/media/D-euLzNX4AAisSf.jpg:large);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 800px;
+    height: 700px;
     position: relative;
 }
 
@@ -16,7 +16,7 @@
     bottom: 250px;
     left: 180px;
     width: 50px;
-    transition: transform 3s ease-in-out;
+    transition: transform 1s ease-in-out;
     transition-delay: 1s;
 }
 
