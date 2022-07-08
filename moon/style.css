@@ -1,5 +1,5 @@
 .wrapper {
-    background-image: url(https://pbs.twimg.com/media/D-euLzNX4AAisSf.jpg:large);
+    background-image: url(https://cdn.culture.ru/images/bcd4420e-d48f-591f-8d89-de10f5e3913e);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,10 +13,10 @@
 
 .plane {
     position: absolute;
-    bottom: 250px;
+    bottom: 210px;
     left: 180px;
     width: 50px;
-    transition: transform 1s ease-in-out;
+    transition: transform 2s ease-in-out;
     transition-delay: 1s;
 }
 
