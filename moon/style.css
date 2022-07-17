@@ -1,5 +1,5 @@
 .wrapper {
-    background-image: url(https://cdn.culture.ru/images/bcd4420e-d48f-591f-8d89-de10f5e3913e);
+    background-image: url(https://all-aforizmy.ru/wp-content/uploads/2021/11/tumannost-zvezdy-kosmos.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@
 .plane {
     position: absolute;
     bottom: 210px;
-    left: 180px;
+    left: 200px;
     width: 50px;
     transition: transform 2s ease-in-out;
     transition-delay: 1s;
@@ -25,7 +25,7 @@
 }
 
 .plane:nth-child(2) {
-    transition-delay: .2s;
+    transition-delay: .1s;
 }
 
 .content:hover .plane:nth-child(2) {
