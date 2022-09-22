@@ -1,93 +1,72 @@
 body {
-    background-color: #858585;
+    background-color: rgb(199, 247, 255);
 }
 
-table {
-    width: 100%;
+.under {
+    text-decoration: underline;
+}
+
+p {
+    padding-left: 10px;
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+h3:target {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: grey;
+}
+
+.links {
+    display: inline-block;
+    background-color: white;
+    height: 145px;
+    width: 170px;
+    border: solid 1px;
+}
+
+.backgorund-links {
+    background-color: grey;
+    padding: 10px;
     border-radius: 15px;
-    letter-spacing: 1px;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    border: solid 1px;
 }
 
-.number {
-    display: block;
-    margin-bottom: 15px;
+.articles {
+    display: inline-block;
+    background-color: rgb(180, 180, 180);
+    height: 170px;
+    width: 210px;
+    margin: 5px;
 }
 
-.mon-radius {
-    border-radius: 10px 0px 0px 0;
+.backgorund-art {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
 }
 
-.sun-radius {
-    border-radius: 0px 10px 0px 0;
-}
-
-th {
-    text-transform: uppercase;
-    background-color: #333333;
-    padding: 10px;
-}
-
-th, td {
-    width: 12%;
-}
-
-td {
-    padding: 10px;
-}
-
-td {
-    padding: 10px;
-    vertical-align: top;
-}
-
-.calendar {
-    height: 150px;
-    background-color: #515151;
-}
-
-.single-day {
-    text-align: center;
-}
-
-.event-start {
-    margin-right: -20px;
-}
-
-.event-middle {
-    margin-left: -20px;
-    margin-right: -20px;
-    text-align: center;
-}
-
-.event-end {
-    margin-left: -60px;
-}
-
-.event {
-    color: #4c4c4c;
-    display: block;
-    margin-top: 6px;
-    margin-bottom: 6px;
-    height: 18px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    border-radius: 10px;
-}
-
-.green-color {
-    background-color: #ff5959;
-}
-
-.salmon-color {
-    background-color: #999eff;
-}
-
-.blue-color {
-    background-color: #f785ff;
-}
-
-.pink-color {
-    background-color: #47f369;
+.backgorund-art2 {
+    background-color: grey;
+    padding: 3px;
+    margin-top: 5px;
+    border-radius: 5px;
+    display: inline-block;
 }
